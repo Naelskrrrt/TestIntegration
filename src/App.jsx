@@ -1,4 +1,5 @@
 import './App.css'
+import Main from './components/Main'
 import MyNavbar from './components/Navbar'
 import { Sidebar } from './components/Sidebar'
 
@@ -12,6 +13,10 @@ function App() {
       </div>
       <div>
         <MyNavbar />
+      </div>
+
+      <div>
+        <Main />
       </div>
       
     </>
