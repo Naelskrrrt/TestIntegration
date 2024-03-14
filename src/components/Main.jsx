@@ -10,7 +10,7 @@ const Main = () => {
         display: "grid",
       }}
     >
-      <a href="/mainFournisseur">
+      <a href="/fournisseur">
         <div className="p-4"
           style={{
             width: "300px",
